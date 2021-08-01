@@ -1,0 +1,22 @@
+.navbar {
+    padding: 0.5rem 2rem;
+
+
+.navbar-light .navbar-nav .nav-link {
+    color:$black;
+    border-color:$white;
+  }
+
+.container__span--first{
+    font-size:$xx-large;
+    font-weight: 500;
+}
+
+.container__span--second{
+    font-size:$x-small;
+    font-weight: 600;
+    position: absolute;
+    top: 15px;
+}
+
+}
